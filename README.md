@@ -10,7 +10,7 @@ It is designed with a focus on **clean UI, responsiveness, and professional pres
 
 ## 🌐 Live Website
 
-🔗 https://your-username.github.io/joshua-akadake-portfolio/
+🔗https://joshuaakadake.github.io/joshua-akadake-portfolio/
 
 
 
